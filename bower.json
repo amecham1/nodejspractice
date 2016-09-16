@@ -1,0 +1,21 @@
+{
+  "name": "nodejspractice",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Andrew <andrew.mecham@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/amecham1/nodejspractice",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-ui-router": "^0.3.1"
+  }
+}
